@@ -4,7 +4,7 @@ Hi 👋 My name is Marcos Vinicius
 * 👨‍💻 Student of Internet Systems Development 
 * 👋🏽 Welcome to my Git Hub profile 
 * ✉️  You can contact me at [marcosvtenoriodevgmail.com](mailto:marcosvtenoriodev@gmail.com)
-* 🧠  I'm learning | React | Typescript | Node.js | ReactNative |
+* 🧠  I'm learning | React | Typescript | Node.js | React.js | Next.js |
 
 <br>
 

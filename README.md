@@ -1,7 +1,7 @@
 Hi 👋 My name is Marcos Tenorio
 ======================================================================================================================================
 
-Front-End Web Developer ( )
+Front-End Web Developer
 -----------------------
 
 Seeking an exciting opportunity as a software developer where I can unleash my full potential, contribute valuable insights to the team, and continuously nurture my own growth. Ready to dive into code and make an impact!

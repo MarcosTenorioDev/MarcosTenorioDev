@@ -14,6 +14,15 @@ Seeking an exciting opportunity as a software developer where I can unleash my f
 * 🧠  I'm learning | Typescript | Node.js | React.js | Next.js | Tailwind.css | PostgreSQL
 * ⚡  My best project is a remote car made by scrap metal in elementary school hahaha.
 
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/MarcosTenorioDev/MarcosTenorioDev/assets/107797969/96eb9cbf-dbe5-48be-8b8f-6be0a896e2f2" alt="Image 1" width="200px">
+  <img src="https://github.com/MarcosTenorioDev/MarcosTenorioDev/assets/107797969/414b5fe4-650f-4de7-9fb5-3d7b15b4168a" alt="Image 2" width="200px">
+  <img src="https://github.com/MarcosTenorioDev/MarcosTenorioDev/assets/107797969/c75bb8d2-2257-409d-ae1f-5c40c0eec8b1" alt="Image 2" width="200px">
+</div>
+
+
+
 ### Skills
 
 

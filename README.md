@@ -8,7 +8,7 @@ Seeking an exciting opportunity as a software developer where I can unleash my f
 
 * 👨‍💻 Student of Internet Systems Development in UNICAP ( Catholic University of Pernambuco ) 
 * 🌍  I'm based in Recife - Pernambuco
-* 🖥️  See my portfolio at [https://marcosvtenoriodev.vercel.app/](http://marcosvtenoriodev.vercel.app/) ( 🧱 building... )
+* 🖥️  See my portfolio at [https://marcos-dev.vercel.app/](https://marcos-dev.vercel.app/) ( 🧱 building... )
 * ✉️  You can contact me at [marcostenorio2003@gmail.com](mailto:marcostenorio2003@gmail.com)
 * 🚀  I'm currently working on [idear-pi.vercel.app](http://idear-pi.vercel.app/)
 * 🧠  I'm learning | Typescript | Node.js | React.js | Next.js | Tailwind.css | PostgreSQL

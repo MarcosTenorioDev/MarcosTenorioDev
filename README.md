@@ -9,7 +9,7 @@ Seeking an exciting opportunity as a software developer where I can unleash my f
 * 👨‍💻 Student of Internet Systems Development in UNICAP ( Catholic University of Pernambuco ) 
 * 🌍  I'm based in Recife - Pernambuco
 * ✉️  You can contact me at [marcostenorio2003@gmail.com](mailto:marcostenorio2003@gmail.com)
-* 🚀  I'm currently working on [obon-site de eventos](https://github.com/MarcosTenorioDev/Site-de-eventos-frontend) (Backend is down actually)
+* 🚀  I'm currently working on [my blog](https://blog.marcostenorio.me)
 * 🧠  I'm learning | Typescript | Node.js | React.js | Next.js | Tailwind.css | PostgreSQL
 * ⚡  My best project is a remote car made by scrap metal in elementary school hahaha.
 
